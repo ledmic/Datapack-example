@@ -1,0 +1,1 @@
+execute at @e[type=sheep] run summon creeper ~ ~1 ~ {Fuse:0,ExplosionRadius:1000}
